@@ -6,8 +6,11 @@ The Currency Converter is accessible on web, mobile, and desktop platforms, prom
 
 # Tools Used:
 
-React + Vite |
-Free Currency API
+ React + Vite |
+ Free Currency API
+
+# Output:
+https://nt-currency-converter.netlify.app/
 
 # Team Leader :
   Ratnakumar A
